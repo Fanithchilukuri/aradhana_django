@@ -1,0 +1,93 @@
+id,item_name,Wholesale_cost,retail_cost,profit,code,season
+1,T-Shirt,15.00,30.00,15.00,ABC,Summer
+2,Jeans,30.00,60.00,30.00,DEF,Winter
+3,Jacket,50.00,120.00,70.00,GHI,Winter
+4,Skirt,25.00,50.00,25.00,JKL,Summer
+5,Hat,10.00,25.00,15.00,MNO,Summer
+6,Sweater,40.00,90.00,50.00,PQR,Winter
+7,Shorts,20.00,40.00,20.00,STU,Summer
+8,Blouse,35.00,70.00,35.00,VWX,Summer
+9,Dress,60.00,150.00,90.00,YZA,Summer
+10,Socks,5.00,15.00,10.00,BAC,Winter
+11,Tank Top,12.00,28.00,16.00,CAD,Summer
+12,Overcoat,70.00,180.00,110.00,DAE,Winter
+13,Leggings,25.00,50.00,25.00,EAF,Summer
+14,Cargo Pants,40.00,85.00,45.00,FAG,Winter
+15,Casual Shirt,20.00,45.00,25.00,HAB,Summer
+16,Culottes,35.00,80.00,45.00,IAJ,Summer
+17,Puffer Jacket,80.00,200.00,120.00,JAK,Winter
+18,Cardigan,30.00,75.00,45.00,KAL,Winter
+19,Raincoat,55.00,130.00,75.00,LAM,Winter
+20,Graphic Tee,20.00,35.00,15.00,NAN,Summer
+21,Jumpsuit,50.00,110.00,60.00,OAP,Summer
+22,Windbreaker,35.00,85.00,50.00,PBA,Winter
+23,Polo Shirt,25.00,50.00,25.00,QBC,Summer
+24,Chinos,30.00,65.00,35.00,RCD,Summer
+25,Denim Jacket,45.00,100.00,55.00,SED,Winter
+26,Tracksuit,50.00,120.00,70.00,TFE,Summer
+27,Romper,35.00,80.00,45.00,UHG,Summer
+28,Turtleneck,30.00,65.00,35.00,VHI,Winter
+29,Windbreaker,40.00,90.00,50.00,WJH,Winter
+30,Beach Shorts,15.00,30.00,15.00,XKJ,Summer
+31,Capris,25.00,50.00,25.00,YKL,Summer
+32,Thermal Shirt,25.00,55.00,30.00,ZLM,Winter
+33,Bomber Jacket,50.00,120.00,70.00,ABC,Summer
+34,Plaid Shirt,20.00,45.00,25.00,DEF,Summer
+35,Cashmere Sweater,100.00,250.00,150.00,GHI,Winter
+36,Bikini,20.00,40.00,20.00,JKL,Summer
+37,Track Pants,30.00,70.00,40.00,MNO,Summer
+38,Blazer,80.00,200.00,120.00,PQR,Winter
+39,Crop Top,15.00,35.00,20.00,STU,Summer
+40,Wide-leg Pants,35.00,80.00,45.00,VWX,Summer
+41,Sundress,50.00,120.00,70.00,YZA,Summer
+42,Quilted Jacket,70.00,160.00,90.00,BAC,Winter
+43,Kimono,40.00,90.00,50.00,CAD,Summer
+44,Graphic Hoodie,40.00,80.00,40.00,DAE,Summer
+45,Running Shorts,20.00,40.00,20.00,EAF,Summer
+46,Linen Pants,35.00,75.00,40.00,FAG,Summer
+47,Peacoat,60.00,140.00,80.00,HAB,Winter
+48,Chiffon Blouse,30.00,65.00,35.00,IAJ,Summer
+49,Tracksuit,45.00,100.00,55.00,JAK,Summer
+50,Casual Dress,40.00,90.00,50.00,KAL,Summer
+51,Joggers,25.00,55.00,30.00,LAM,Summer
+52,Cardigan,30.00,75.00,45.00,NAN,Winter
+53,Skater Skirt,20.00,45.00,25.00,OAP,Summer
+54,Anorak,55.00,130.00,75.00,PBA,Winter
+55,Sarong,10.00,25.00,15.00,QBC,Summer
+56,Duster,40.00,90.00,50.00,RCD,Summer
+57,Work Pants,30.00,70.00,40.00,SED,Winter
+58,Fleece Jacket,45.00,100.00,55.00,TFE,Winter
+59,Twill Pants,30.00,70.00,40.00,UHG,Summer
+60,Cap Sleeve Top,25.00,55.00,30.00,VHI,Summer
+61,Balloon Sleeve Top,30.00,70.00,40.00,WJH,Summer
+62,Faux Fur Coat,80.00,200.00,120.00,XKJ,Winter
+63,Lace Dress,50.00,110.00,60.00,YKL,Summer
+64,Button-up Shirt,20.00,45.00,25.00,ZLM,Summer
+65,Padded Vest,40.00,100.00,60.00,ABC,Winter
+66,Evening Gown,120.00,300.00,180.00,DEF,Summer
+67,Flannel Shirt,25.00,55.00,30.00,GHI,Winter
+68,Wrap Dress,50.00,120.00,70.00,JKL,Summer
+69,Windbreaker,45.00,100.00,55.00,MNO,Winter
+70,Flare Jeans,35.00,75.00,40.00,PQR,Summer
+71,Chino Shorts,20.00,45.00,25.00,STU,Summer
+72,Belted Coat,70.00,160.00,90.00,VWX,Winter
+73,Jersey Dress,40.00,90.00,50.00,YZA,Summer
+74,Velvet Blazer,60.00,140.00,80.00,BAC,Winter
+75,Polo Dress,35.00,80.00,45.00,CAD,Summer
+76,Skorts,25.00,55.00,30.00,DAE,Summer
+77,Turtleneck Dress,40.00,90.00,50.00,EAF,Winter
+78,Chino Pants,30.00,70.00,40.00,FAG,Summer
+79,Baseball Cap,15.00,30.00,15.00,HAB,Summer
+80,Winter Coat,100.00,250.00,150.00,IAJ,Winter
+81,Denim Skirt,25.00,60.00,35.00,JAK,Summer
+82,Sweatpants,30.00,70.00,40.00,KAL,Summer
+83,Evening Jacket,70.00,150.00,80.00,LAM,Winter
+84,Utility Jacket,50.00,120.00,70.00,NAN,Winter
+85,Bodysuit,30.00,70.00,40.00,OAP,Summer
+86,Bohemian Dress,60.00,130.00,70.00,PBA,Summer
+87,Fitted Blazer,70.00,150.00,80.00,QBC,Winter
+88,Maxi Dress,50.00,120.00,70.00,RCD,Summer
+89,Cropped Hoodie,30.00,65.00,35.00,SED,Summer
+90,Layered Top,25.00,55.00,30.00,TFE,Summer
+91,Trench Coat,80.00,180.00,100.00,UHG,Winter
+92,Pinafore Dress,35.00,80.00,45.00,VHI,Summer
